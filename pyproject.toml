@@ -1,0 +1,14 @@
+
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "Dan Sloan", email = "827555+LucidDan@users.noreply.github.com"},
+]
+dependencies = [
+    "django>=4.2.2",
+    "neapolitan>=23.11",
+]
+requires-python = ">=3.11"
+license = {text = "MIT"}
